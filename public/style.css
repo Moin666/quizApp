@@ -1,0 +1,15 @@
+:root{
+    --quizTitle:#faa307;
+    --quizQuestion:#6a040f;
+}
+
+.backgroundQuiz{
+    background-color: var(--quizTitle);
+}
+.backgroundQuestion{
+    background-color: var(--quizQuestion);
+    height: 20vh;
+}
+.congrtz{
+    height: 20vh;
+}
